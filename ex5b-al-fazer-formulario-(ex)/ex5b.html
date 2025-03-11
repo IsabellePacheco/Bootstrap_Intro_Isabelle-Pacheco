@@ -1,1 +1,85 @@
-<!-- 1ª Digitação (Resolver exercício aqui) -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Bootstrap Customizado</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Bootstrap ícones -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    
+    <style>
+        body{
+            background-color: #F2E4D8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container{ 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container ">
+        <form class="custom-form">
+
+            <h3 class="form-title">Formulário login</h3>
+
+            <div class=" mb-3">
+                <label for="email" class="form-label">Nome:</label>
+                <div class="input-group mt-3">
+                <span class="input-group-text custom-icon">
+                    <i class="bi bi-person"></i>
+                </span>
+                <input type="text"class="form-control custom-input" placeholder="Digite seu nome">
+            </div> 
+            </div>
+
+            <div class=" mb-3">
+            <label for="senha" class="form-label">Email:</label>
+            
+            <div class="input-group mt-3">
+            <span class="input-group-text custom-icon">
+                <i class="bi bi-envelope"></i>
+            </span>
+            <input type="email"class="form-control custom-input" placeholder="Digite seu email">
+            </div> 
+            </div>
+
+            <div class=" mb-3">
+            <label for="senha" class="form-label">Senha:</label>
+            
+            <div class="input-group mt-3">
+            <span class="input-group-text custom-icon">
+                <i class="bi bi-lock"></i>
+            </span>
+            <input type="text"class="form-control custom-input" placeholder="Digite sua senha">
+            </div> 
+            </div>
+
+            <div class="d-grid">
+                <button class="btn">
+                    <i class="bi bi-arrow-right"></i>
+                </button>
+            </div> 
+            </div>
+        </form>
+    </div>
+
+
+   
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
