@@ -1,4 +1,4 @@
 # Bootstrap
 
-Conceitos básicos de BOOTSRAP
+Conceitos básicos de BOOTSTRAP
  
