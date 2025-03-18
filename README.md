@@ -25,4 +25,22 @@ Bootstrap é um framework front-end popular usado para desenvolver sites e aplic
 ## Formulário
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/1097a1d7-3c6b-44ee-8bfb-2716a7ea2e00" />
 
+<img width="837" alt="image" src="https://github.com/user-attachments/assets/0807f460-996c-48bb-b9a2-9b08ead141c0" />
+
+
+## Cards
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/5f943d02-92ca-4f02-a0f7-e4ce2034ef12" />
+
+## Cards com imagens 
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/051fd62b-df76-4544-bea2-7bc4ccf536e2" />
+
+## Navbar
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/3e1d0448-a0a4-4862-9d37-e8223c480f07" />
+
+
+## Modal
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/1883084a-c5a4-4bbd-a841-46826a386b1c" />
+
+
+
 
