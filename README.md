@@ -43,7 +43,7 @@ Bootstrap é um framework front-end popular usado para desenvolver sites e aplic
 
 
 ## Carrossel
-<img width="490" alt="image" src="https://github.com/user-attachments/assets/abd6265e-161e-44e2-a0f4-c29d178570eb" /> <img width="486" alt="image" src="https://github.com/user-attachments/assets/6ca57cac-490c-47b2-883c-c7033e7f3471" />  <img width="497" alt="image" src="https://github.com/user-attachments/assets/d69b2641-acbc-4ff5-a532-b54d971d5bb7" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/abd6265e-161e-44e2-a0f4-c29d178570eb" /> <img width="490" alt="image" src="https://github.com/user-attachments/assets/6ca57cac-490c-47b2-883c-c7033e7f3471" />  <img width="497" alt="image" src="https://github.com/user-attachments/assets/d69b2641-acbc-4ff5-a532-b54d971d5bb7" />
 
 
 
