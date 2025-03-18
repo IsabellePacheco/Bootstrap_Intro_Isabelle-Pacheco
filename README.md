@@ -10,22 +10,12 @@ Bootstrap é um framework front-end popular usado para desenvolver sites e aplic
 ## Bootstrap link JavaScript
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-     Responsividade
-O Bootstrap facilita a criação de layouts que se ajustam automaticamente ao tamanho da tela do dispositivo. Isso é feito usando classes que adaptam o layout dependendo da largura da tela.
-
-Exemplo:
-
-html
-Copiar
-<div class="col-sm-12 col-md-6 col-lg-4">
-  Conteúdo adaptável
-</div>
-col-sm-12: A coluna ocupa toda a largura em telas pequenas (sm).
-col-md-6: A coluna ocupa metade da largura em telas médias (md).
-col-lg-4: A coluna ocupa um terço da largura em telas grandes (lg).
 
 # Conceitos básicos de BOOTSTRAP
 
+## Responsividade
+* div class="col-sm-12 col-md-6 col-lg-4"
+(col-sm-12: telas pequenas (sm), col-md-6: telas médias (md), col-lg-4: telas grandes (lg).)
 ## Sistema de Grid
 * div class="row" (Define uma linha no grid.)
 * div class="col-md-6" Coluna 1</div> (coluna que ocupa metade da largura da tela)
